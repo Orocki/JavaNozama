@@ -1,0 +1,4 @@
+45876;SSD-Samsung;70
+35234;Joker Blu-ray; 20
+23532;Playmobil Burg;35
+34234;Game of thrones Blu-ray;50
